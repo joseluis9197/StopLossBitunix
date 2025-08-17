@@ -8,7 +8,7 @@ El Script fue desarrollado para proteger las operaciones en futuros de Bitunix, 
 - Descargar python [Aqui](https://www.python.org/ "Aqui")
 - Descargar y modificar el Archivo config.py, el archivo lo puedes modificar con sublime text, el cual puedes descargar [Aqui](https://www.sublimetext.com/ "Aqui"), o modificarlo con el block de notas.
 - Agrega la API KEY y la API SECRET
-- Para obtener tu API KEY y API SECRET debes ingresar [Aqui](https://partner.bybit.com/b/GafasTrading "Aqui")
+- Para obtener tu API KEY y API SECRET debes ingresar [Aqui](https://www.bitunix.com/register?inviteCode=xmba1f "Aqui")
 ```python
 api_key = ''
 api_secret = ''

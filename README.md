@@ -1,6 +1,6 @@
-### Stop Loss Automatico para Futuros de BYBIT
+### Stop Loss Automatico para Futuros de Bitunix
 
-El Script fue desarrollado para proteger las operaciones en futuros de Bybit, solo debes de poner la moneda que deseas operar donde ya tengas una posicion abierta, ejemplo (btc), y luego poner en monto maximo a perder en dolares, ejemplo (10)
+El Script fue desarrollado para proteger las operaciones en futuros de Bitunix, solo debes de poner la moneda que deseas operar donde ya tengas una posicion abierta, ejemplo (btc), y luego poner en monto maximo a perder en dolares, ejemplo (10)
 
 **NOTA: Este script es solo para los pares USDT**
 
@@ -13,13 +13,12 @@ El Script fue desarrollado para proteger las operaciones en futuros de Bybit, so
 api_key = ''
 api_secret = ''
 ```
-- Antes de ejecutar el Script deberas instalar la libreria de Python de BYBIT `pip install pybit`
+
 - Una vez guardado el archivo debes ejecutarlo desde una terminal de windows o de tu sistema operativo que uses con el siguiente comando.
 `python script.py`
+- Lo he probado en el movil con la aplicación "Pyto" y funciona bien.
 
 **NOTA: Para que funcione bien no debes estar en modo Cobertura**
 
 #### Contact
-- Twitter: [https://twitter.com/ElGafasTrading](https://twitter.com/ElGafasTrading "https://twitter.com/ElGafasTrading")
-- Instagram: [https://www.instagram.com/elgafastrading/](https://www.instagram.com/elgafastrading/ "https://www.instagram.com/elgafastrading/")
-- Youtube: [https://www.youtube.com/@ElGafasTrading](https://www.youtube.com/@ElGafasTrading "https://www.youtube.com/@ElGafasTrading")
+Telegram @joseluis9197
